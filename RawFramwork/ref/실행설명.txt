@@ -1,0 +1,2 @@
+javac CopyObj.java
+main 실행파일:java CopyObj
